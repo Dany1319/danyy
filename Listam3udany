@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,CANAL3
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3_360.m3u8
+
+#EXTINF:-1,t13
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3_480.m3u8
